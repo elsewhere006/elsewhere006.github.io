@@ -1,2 +1,2 @@
 # tmp
-tmp repository for testing
+just a tmp repository for testing
